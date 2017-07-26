@@ -16,10 +16,10 @@ To get the results, first, need to change X data text which is values, and label
 
 This images are run the same date and same categories, but different perplexity. You can see which one is more stable image however, similar relationships between categories.
 
-## perplexity
+## stable perplexity
 
 <img src = 'http://i.imgur.com/i3HA5RR.png' title= 'stable perplexity' alt= 'stable perplexity'/>
 
-## relationships
+## similar relationships
 
 <img src = 'http://i.imgur.com/kJ1SMf6.png' title= 'similar relationships' alt= 'similar relationships' />
