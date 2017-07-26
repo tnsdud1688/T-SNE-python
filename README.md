@@ -16,4 +16,5 @@ To get the results, first, need to change X data text which is values, and label
 
 This images are run the same date and same categories, but different perplexity. You can see which one is more stable image however, similar relationships between categories.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bjpEP"><a href="//imgur.com/bjpEP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src = 'http://imgur.com/i3HA5RR' title= 'stable perplexity' />
+<img src = 'http://imgur.com/kJ1SMf6' title= 'similar relationships' />
